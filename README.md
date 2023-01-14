@@ -1,3 +1,3 @@
 ### `FAQ For Website`
 
-> > #### `Thans a lot for visiting...`
+> > #### `Thanks a lot for visiting...`
