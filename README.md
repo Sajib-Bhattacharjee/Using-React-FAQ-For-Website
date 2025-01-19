@@ -75,7 +75,7 @@ The **FAQ for Website** project is a simple React-based application designed to 
 │       └── FAQ.css
 ├── public
 ├── package.json
-├── package.lock.json
+├── package-lock.json
 └── README.md
 ```
 
